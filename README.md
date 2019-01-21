@@ -45,7 +45,7 @@
     <blackquote>
        <h2 id="2-blockexplorer">2. Blockexplorer</h2>
          <p>Coin was abandoned by old dev, so is Blockexplorer ...</p>
-         <p><a href="https://bitcointalk.org/index.php?topic=2002403.msg19938450#msg19938450"><img src="https://i.imgur.com/1DayOLp.png" title="Abandoned by old dev" /></a> </p>
+         <p><a href="https://bitcointalk.org/index.php?topic=2002403.msg19938450#msg19938450"><img src="https://i.imgur.com/1DayOLp.png" title="BDSM-FETISH(FETSH)" /></a> </p>
      <hr>
 </br>
  </blackquote>
