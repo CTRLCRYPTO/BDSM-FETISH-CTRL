@@ -5,7 +5,7 @@
    <body>
      <div class="container">
        <h1 id="bdsm-fetish">BDSM-FETISH COIN - CTRL - Proof of Stake</h1>
-        <p><img src="https://raw.githubusercontent.com/CTRLCRYPTO/BDSM-FETISH-CTRL/master/src/qt/res/images/BDSM-FETISH-CTRL.png" alt="BDSM-FETISH COIN(CTRL) - Proof of Stake coin" title="2018-12-08"></p>
+        <p><img src="https://raw.githubusercontent.com/CTRLCRYPTO/BDSM-FETISH-CTRL/master/src/qt/res/images/BDSM-FETISH-CTRL.png" alt="BDSM-FETISH COIN(CTRL) - Proof of Stake coin" title="2018-12-01"></p>
         <div class="toc">
           <p><b><a href="#bdsm-fetish">BDSM-FETISH (CTRL) Proof of stake</a></li></b>
              <p><a href="#1-specs">1. Specs</a></p>
