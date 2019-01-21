@@ -28,7 +28,7 @@
             <li><p>Coin: BDSM-FETISH PoS (<a href="https://github.com/f1n63r/bdsm-fetish-PoS/blob/master/doc/X11.md">X11 Algo</a>)</p></li>
             <li><p>Ticker: CTRL</p></li>
             <li><p>Client name: Satoshi</p></li>
-            <li><p>Client version v1.1.1.0-287kCoinsBurnJan16-BFTheseCoinsAreDestroyedXXXXZ9jn9o</p></li>
+            <li><p>Client version v1.1.2.0-f1n63r-testing</p></li>
             <li><p>Coin supply: 856811.61293945 (2018-12-02)</p></li>
             <li><p>Protocol version: 60013</p></li>
             <li><p>Wallet version: 60000</p></li>
