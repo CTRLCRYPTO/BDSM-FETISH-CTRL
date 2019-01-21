@@ -55,6 +55,7 @@
            <li><p>BDSM-FETISHd running node - 1 CTRL *</p></li>
            <li><p>BDSM-FETISH Github code review + valuable pull requests - 1-10 CTRL *</p></li>
            <li><p>BDSM-FETISH(CTRL)  block explorer coding and hosting one year - 100 CTRL *</p></li>
+            <em><sup><code>*<b> BDSM-FETISH (CTRL) coin is <a href="https://en.wikipedia.org/wiki/Stablecoin"> Stablecoin</a>  - pegged to BTC.</b></code></sup></em>
           </ul>
    
   <hr>
@@ -160,9 +161,6 @@
              <p>Download BDSM-FETISH (CTRL) <a href="https://app.box.com/s/sly3wtlltiecu42rz71db2cv46m3qi1h" title="2018-12-02">bootstrap.dat</a> and place it to .BDSM-FETISH</p>
                <p>#Start wallet GUI</p>
                <p>/bdsm-fetish-PoS $ <code>./BDSM-FETISH-qt -printtoconsole</code></p>
-   <hr>
-  </br>
-    <em><sup><code>*<b> BDSM-FETISH (CTRL) coin is <a href="https://en.wikipedia.org/wiki/Stablecoin"> Stablecoin</a>  - pegged to BTC.</b></code></sup></em>
    <hr>
  </blackquote>
    </div>
