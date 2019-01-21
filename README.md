@@ -115,7 +115,7 @@
                 <p>//Make sure You have <a href="https://github.com/f1n63r/bdsm-fetish-PoS/blob/master/BerkeleyDB4.8.md">Berkeley DB 4.8</a> and <a href="https://github.com/f1n63r/bdsm-fetish-PoS/blob/master/Boost1.37.md">Boost 1.37</a></p>
                 <p># Compile wallet Daemon - headless linux terminall node </p>
                 <p> $ <code>git clone https://github.com/CTRLCRYPTO/BDSM-FETISH-CTRL</code></p>
-                <p> $ <code>cd ./BDSM-FETISH-CTRL/src</code></p>
+                <p> $ <code>cd BDSM-FETISH-CTRL/src</code></p>
                 <p> $ <code>chmod 755 leveldb/build_detect_platform</code></p>
                 <p># Compile wallet Daemon </p>
                 <p> $ <code>make -f makefile.unix</code> </p>
@@ -135,7 +135,7 @@
                           <p>server=1</p>
                           <p>daemon=1</p>
                           <p>rpcuser=BDSM-FETISHrpc</p>
-                          <p>rpcpassword=3jZGzbhA8ZLodnPMiFhmhuMifkEteRVwkstBLnY7hFC</p>
+                          <p>rpcpassword=9jZGzbhA8ZLodnPMiFhmhuMifkEteRVwkstBLnY7hFC</p>
                           <p>rpcallowip=127.0.0.1</p>
                           <p>rpcconnect=127.0.0.1</p>
                           <p>rpcport=8746</p>
@@ -143,14 +143,14 @@
         </blackquote>
  </br>
                           <p> $ <code>cd ~</code></p>
-                          <p> $ <code>cd bdsm-fetish-PoS/src </code></p>
+                          <p> $ <code>cd BDSM-FETISH-CTRL/src </code></p>
                           <p> $ <code>./BDSM-FETISHd #The node will start sync with network.</code></p>
     </blackquote>
       <hr>
 </br>   
  <blackquote>
               <h2 id="9-compiling">9. Compiling wallet QT (GUI) BDSM-FETISH-qt</h2>
-                         <p> $ <code>cd bdsm-fetish-PoS</code></p>
+                         <p> $ <code>cd BDSM-FETISH-CTRL</code></p>
                           <p> $ <code>qmake -qt=qt4 "USE_QRCODE=1" "USE_UPNP=1" #-qt=qt5</code></p>
                          <p> $ <code>make</code></p>
        </blackquote>
@@ -160,7 +160,7 @@
           <h2 id="10-bootstrap">10. Wallet bootstrap.dat</h2>
              <p>Download BDSM-FETISH (CTRL) <a href="https://app.box.com/s/sly3wtlltiecu42rz71db2cv46m3qi1h" title="2018-12-02">bootstrap.dat</a> and place it to .BDSM-FETISH</p>
                <p>#Start wallet GUI</p>
-               <p>/bdsm-fetish-PoS $ <code>./BDSM-FETISH-qt -printtoconsole</code></p>
+               <p>cd BDSM-FETISH-CTRL $ <code>./BDSM-FETISH-qt -printtoconsole</code></p>
    <hr>
  </blackquote>
    </div>
