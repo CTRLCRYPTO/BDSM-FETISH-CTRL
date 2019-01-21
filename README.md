@@ -4,10 +4,10 @@
   </head>
    <body>
      <div class="container">
-       <h1 id="bdsm-fetish">BDSM-FETISH COIN - WHIPPED - Proof of Stake</h1>
-        <p><img src="https://raw.githubusercontent.com/f1n63r/bdsm-fetish-PoS/master/src/qt/res/images/BDSM-FETISH-CTRL-2018.png" alt="BDSM-FETISH COIN (WHIPPED) - Proof of Stake coin" title="2018-12-08"></p>
+       <h1 id="bdsm-fetish">BDSM-FETISH COIN - CTRL - Proof of Stake</h1>
+        <p><img src="https://raw.githubusercontent.com/f1n63r/bdsm-fetish-PoS/master/src/qt/res/images/BDSM-FETISH-CTRL-2018.png" alt="BDSM-FETISH COIN(CTRL) - Proof of Stake coin" title="2018-12-08"></p>
         <div class="toc">
-          <p><b><a href="#bdsm-fetish">BDSM-FETISH (WHIPPED) Proof of stake</a></li></b>
+          <p><b><a href="#bdsm-fetish">BDSM-FETISH (CTRL) Proof of stake</a></li></b>
              <p><a href="#1-specs">1. Specs</a></p>
              <p><a href="#2-blockexplorer">2. Blockexplorer</a></p>
              <p><a href="#3-bounty">3. Bounty</a></p>
@@ -23,10 +23,10 @@
 </br>
    <blackquote>
        <h2 id="1-specs">1. Specs</h2>
-         <a href="https://coinmarketcap.com/currencies/bdsm-fetish"><img src="https://i.imgur.com/qS0aIGu.png" title="BDSM FETISH - WHIPPED  COIN MARKET CAP 2018" /></a> 
+         <a href="https://coinmarketcap.com/currencies/bdsm-fetish"><img src="https://i.imgur.com/qS0aIGu.png" title="BDSM FETISH - CTRL  COIN MARKET CAP 2018" /></a> 
            <ul>
             <li><p>Coin: BDSM-FETISH PoS (<a href="https://github.com/f1n63r/bdsm-fetish-PoS/blob/master/doc/X11.md">X11 Algo</a>)</p></li>
-            <li><p>Ticker: WHIPPED</p></li>
+            <li><p>Ticker: CTRL</p></li>
             <li><p>Client name: Satoshi</p></li>
             <li><p>Client version v1.1.1.0-287kCoinsBurnJan16-BFTheseCoinsAreDestroyedXXXXZ9jn9o</p></li>
             <li><p>Coin supply: 856811.61293945 (2018-12-02)</p></li>
@@ -52,9 +52,9 @@
   <blackquote>
         <h2 id="3-bounty">3. Bounty</h2>
           <ul>
-           <li><p>BDSM-FETISHd running node - 1 WHIPPED *</p></li>
-           <li><p>BDSM-FETISH Github code review + valuable pull requests - 1-10 WHIPPED *</p></li>
-           <li><p>BDSM-FETISH (WHIPPED)  block explorer coding and hosting one year - 100 WHIPPED *</p></li>
+           <li><p>BDSM-FETISHd running node - 1 CTRL *</p></li>
+           <li><p>BDSM-FETISH Github code review + valuable pull requests - 1-10 CTRL *</p></li>
+           <li><p>BDSM-FETISH(CTRL)  block explorer coding and hosting one year - 100 CTRL *</p></li>
           </ul>
    
   <hr>
@@ -65,9 +65,9 @@
          <p>addnode=91.121.79.208:8745</p>
    <hr>
               <ul>
-            <p><li>Run a new BDSM-FETISH(WHIPPED) coin node for fun and profit!</li>
-            <p><li>Get 1 WHIPPED for free -> support kinky blockchain network</li></p>
-            <p><li>Stake Your free WHIPPED && stake Your staked stakes -> get 2% per year interest</li></p> 
+            <p><li>Run a new BDSM-FETISH(CTRL) coin node for fun and profit!</li>
+            <p><li>Get 1 CTRL for free -> support kinky blockchain network</li></p>
+            <p><li>Stake Your free CTRL && stake Your staked stakes -> get 2% per year interest</li></p> 
             <p><li>Contribute with code for fun and get paid for valuable updates</li></p>
             <p><li>. . . </li></p>
             <p><li>PROFIT!</li></p>
@@ -82,7 +82,7 @@
          <ul>
              <li><p>2017 delisted from <a href="https://cryptopia.co.nz/">Cryptopia Exchange</a></li> </p>
              <li><p>No other centralised exchanges listed</li></p> 
-             <li><p>P2P exchange by initiator of talk-to-trade for services and goods, or other cryptocurrencies on social media channels like Bitcoin Talk, Reddit, Twitter or other Your medium of choice via <a href="https://github.com/f1n63r/bdsm-fetish-PoS.git">official BDSM-FETISH (WHIPPED) software.</a></li></p>
+             <li><p>P2P exchange by initiator of talk-to-trade for services and goods, or other cryptocurrencies on social media channels like Bitcoin Talk, Reddit, Twitter or other Your medium of choice via <a href="https://github.com/f1n63r/bdsm-fetish-PoS.git">official BDSM-FETISH (CTRL) software.</a></li></p>
           </ul>
            </blackquote>
     <hr>
@@ -90,10 +90,10 @@
  <blackquote>
         <h2 id="6-news">6. News</h2>
           <ul> 
-            <li>2015 - BDSM COIN(BDSM) & Fetish Coin(FETISH) swaped to <a href="https://bitcointalk.org/index.php?topic=1328147.msg13553232#msg13553232">WHIPPED Coin PoS</a></li>
-            <li>2017 - BDSM-FETISH(WHIPPED) swaped to <a href="https://bitcointalk.org/index.php?topic=2002403.msg19938450#msg19938450">next premined shady coin FETSH</a></li>
-            <li>2018 - Leftovers of WHIPPED Pos coins lives on its own few HARDCORE network nodes</li>
-            <li>2018 - New WHIPPED dev</li>
+            <li>2015 - BDSM COIN(BDSM) & Fetish Coin(FETISH) swaped to <a href="https://bitcointalk.org/index.php?topic=1328147.msg13553232#msg13553232">CTRL Coin PoS</a></li>
+            <li>2017 - BDSM-FETISH(CTRL) swaped to <a href="https://bitcointalk.org/index.php?topic=2002403.msg19938450#msg19938450">next premined shady coin FETSH</a></li>
+            <li>2018 - Leftovers of CTRL Pos coins lives on its own few HARDCORE network nodes</li>
+            <li>2018 - New CTRL dev</li>
           </ul>
    </blackquote>
   <hr>
@@ -112,8 +112,8 @@
               <p><code>sudo apt install git build-essential make libqt5webkit5-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools qtcreator libprotobuf-dev protobuf-compiler libboost-dev libboost-all-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libssl-dev libstdc++6 libminiupnpc-dev libevent-dev libcurl4-openssl-dev libpng-dev qrencode libqrencode-dev -y</code></p>
                 <p>//Make sure You have <a href="https://github.com/f1n63r/bdsm-fetish-PoS/blob/master/BerkeleyDB4.8.md">Berkeley DB 4.8</a> and <a href="https://github.com/f1n63r/bdsm-fetish-PoS/blob/master/Boost1.37.md">Boost 1.37</a></p>
                 <p># Compile wallet Daemon - headless linux terminall node </p>
-                <p> $ <code>git clone https://github.com/f1n63r/bdsm-fetish-PoS</code></p>
-                <p> $ <code>cd ./bdsm-fetish-PoS/src</code></p>
+                <p> $ <code>git clone https://github.com/CTRLCRYPTO/BDSM-FETISH-CTRL</code></p>
+                <p> $ <code>cd ./BDSM-FETISH-CTRL/src</code></p>
                 <p> $ <code>chmod 755 leveldb/build_detect_platform</code></p>
                 <p># Compile wallet Daemon </p>
                 <p> $ <code>make -f makefile.unix</code> </p>
@@ -156,12 +156,12 @@
 </br>
  <blackquote>
           <h2 id="10-bootstrap">10. Wallet bootstrap.dat</h2>
-             <p>Download BDSM-FETISH (WHIPPED) <a href="https://app.box.com/s/sly3wtlltiecu42rz71db2cv46m3qi1h" title="2018-12-02">bootstrap.dat</a> and place it to .BDSM-FETISH</p>
+             <p>Download BDSM-FETISH (CTRL) <a href="https://app.box.com/s/sly3wtlltiecu42rz71db2cv46m3qi1h" title="2018-12-02">bootstrap.dat</a> and place it to .BDSM-FETISH</p>
                <p>#Start wallet GUI</p>
                <p>/bdsm-fetish-PoS $ <code>./BDSM-FETISH-qt -printtoconsole</code></p>
    <hr>
   </br>
-    <em><sup><code>*<b> BDSM-FETISH (WHIPPED) coin is <a href="https://en.wikipedia.org/wiki/Stablecoin"> Stablecoin</a>  - pegged to BTC.</b></code></sup></em>
+    <em><sup><code>*<b> BDSM-FETISH (CTRL) coin is <a href="https://en.wikipedia.org/wiki/Stablecoin"> Stablecoin</a>  - pegged to BTC.</b></code></sup></em>
    <hr>
  </blackquote>
    </div>
