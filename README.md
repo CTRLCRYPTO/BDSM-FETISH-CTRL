@@ -62,7 +62,7 @@
 </br> 
   <blackquote>
        <h2 id="4-addnode">4. Connections and new nodes</h2>
-         <p>.BDSM-FETISH/BDSM-FETISH.conf<p>
+         <p>BDSM-FETISH.conf<p>
          <p>addnode=91.121.79.208:8745</p>
    <hr>
               <ul>
