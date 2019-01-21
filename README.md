@@ -74,7 +74,7 @@
             <p><li>PROFIT!</li></p>
               </ul>
        </br>
-           <em><sup><code>Contact dev: fetishcoin@gmail.com <a href="https://discord.gg/WPzrpQr">Discord server</a></code></sup></em>
+           <em><sup><code>Contact dev: fetishcoin ( eta ) gmail.com or join <a href="https://discord.gg/WPzrpQr">Discord </a>server</code></sup></em>
    </blackquote>
   <hr>
 </br>
