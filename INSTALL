@@ -1,0 +1,9 @@
+Building BDSM-FETISH (CTRL)
+
+See doc/readme-qt.rst for instructions on building BDSM-FETISH (CTRL) QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BDSM-FETISH (CTRL).
+
+See doc/build-*.txt for instructions on building BDSM-FETISHd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BDSM-FETISH (CTRL).
