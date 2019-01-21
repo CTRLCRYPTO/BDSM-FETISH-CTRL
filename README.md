@@ -23,7 +23,7 @@
 </br>
    <blackquote>
        <h2 id="1-specs">1. Specs</h2>
-         <a href="https://coinmarketcap.com/currencies/bdsm-fetish"><img src="https://i.imgur.com/qS0aIGu.png" title="BDSM FETISH - CTRL  COIN MARKET CAP 2018" /></a> 
+         <a href="https://coinmarketcap.com/currencies/bdsm-fetish"><img src="https://i.imgur.com/qS0aIGu.png" title="BDSM FETISH - WHIPPED  COIN MARKET CAP 2018" /></a> 
            <ul>
             <li><p>Coin: BDSM-FETISH PoS (<a href="https://github.com/f1n63r/bdsm-fetish-PoS/blob/master/doc/X11.md">X11 Algo</a>)</p></li>
             <li><p>Ticker: CTRL</p></li>
