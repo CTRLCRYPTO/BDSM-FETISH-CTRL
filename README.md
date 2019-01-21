@@ -82,7 +82,7 @@
          <ul>
              <li><p>2017 delisted from <a href="https://cryptopia.co.nz/">Cryptopia Exchange</a></li> </p>
              <li><p>No other centralised exchanges listed</li></p> 
-             <li><p>P2P exchange by initiator of talk-to-trade for services and goods, or other cryptocurrencies on social media channels like Bitcoin Talk, Reddit, Twitter or other Your medium of choice via <a href="https://github.com/f1n63r/bdsm-fetish-PoS.git">official BDSM-FETISH (CTRL) software.</a></li></p>
+             <li><p>P2P exchange by initiator of talk-to-trade for services and goods, or other cryptocurrencies on social media channels like Bitcoin Talk, Reddit, Twitter or other Your medium of choice via <a href="https://github.com/CTRLCRYPTO/BDSM-FETISH-CTRL.git">official BDSM-FETISH (CTRL) software.</a></li></p>
           </ul>
            </blackquote>
     <hr>
