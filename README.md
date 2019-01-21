@@ -74,7 +74,7 @@
             <p><li>PROFIT!</li></p>
               </ul>
        </br>
-           <em><sup><code>Contact dev: fetishcoin@gmail.com  <----- Newbies crypto girls much welcome, all asistance to run a node on Linux systems:-)</code></sup></em>
+           <em><sup><code>Contact dev: fetishcoin@gmail.com <a href="https://discord.gg/WPzrpQr">Discord server</a></code></sup></em>
    </blackquote>
   <hr>
 </br>
