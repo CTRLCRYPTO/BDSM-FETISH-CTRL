@@ -90,11 +90,11 @@
  <blackquote>
         <h2 id="6-news">6. News</h2>
           <ul> 
-            <li>2015 - BDSM COIN(BDSM) & Fetish Coin(WHIPPED) swaped to <a href="https://bitcointalk.org/index.php?topic=1328147.msg13553232#msg13553232">CTRL Coin PoS</a></li>
+            <li>2015 - BDSM COIN(BDSM) & Fetish Coin(FETISH) swaped to <a href="https://bitcointalk.org/index.php?topic=1328147.msg13553232#msg13553232">WHIPPED Coin PoS</a></li>
             <li>2017 - BDSM-FETISH(WIPPED) swaped to <a href="https://bitcointalk.org/index.php?topic=2002403.msg19938450#msg19938450">next premined shady coin FETSH</a></li>
             <li>2018 - Leftovers of WHIPPED Pos coins lives on its own few HARDCORE network nodes</li>
             <li>2018 - New CTRL dev </li>
-            <li>2019 - BDSM-FETISH(WIPPED) - rebrand to BDSM-FETISH(CTRL)
+            <li>2018 - BDSM-FETISH(WIPPED) - rebrand to BDSM-FETISH(CTRL)
           </ul>
    </blackquote>
   <hr>
